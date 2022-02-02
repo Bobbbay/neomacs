@@ -1,0 +1,6 @@
+#+BEGIN_SRC emacs-lisp
+
+(use-package yascroll
+  :config (yascroll-bar-mode 1))
+
+#+END_SRC

@@ -1,0 +1,5 @@
+** Neomacs
+
+[[https://builtwithnix.org/badge.svg]]
+
+A [[https://www.urbandictionary.com/define.php?term=Pretty%20Good][pretty good]] Nix-packaged Emacs distribution, à-la [[https://github.com/vi-tality/neovitality][Neovitality]].
